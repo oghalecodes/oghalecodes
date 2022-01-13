@@ -20,7 +20,7 @@
 
 <h3 align="center">Tech Stack 🍗:</h3>
 <p align="center">
-  <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img alt="Csharp" src="https://img.shields.io/badge/-csharp-239120?style=flat-square&logo=c sharp&logoColor=white" />
   <img alt="Blazor" src="https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
