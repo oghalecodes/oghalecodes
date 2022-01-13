@@ -2,7 +2,10 @@
 <img src="https://github.com/developerlens/developerlens/blob/main/assets/images/headers.png" /> 
 </p>
 
+<!--
 [![Website](https://img.shields.io/website?label=developerlens.tech&style=for-the-badge&url=https%3A%2F%2Fdeveloperlens.tech)](https://developerlens.tech)
+-->
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/developerlens?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdeveloperlens&screen_name=developerlens)
 
 ## I'm a Software Engineer!!
