@@ -2,11 +2,7 @@
 <img src="https://github.com/developerlens/developerlens/blob/main/assets/images/headers.png" /> 
 </p>
 
-<!--
-[![Website](https://img.shields.io/website?label=developerlens.tech&style=for-the-badge&url=https%3A%2F%2Fdeveloperlens.tech)](https://developerlens.tech)
--->
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/developerlens?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdeveloperlens&screen_name=developerlens)
+<!--[![Twitter Follow](https://img.shields.io/twitter/follow/developerlens?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdeveloperlens&screen_name=developerlens)-->
 
 ## I'm a Software Engineer!!
 
@@ -39,6 +35,14 @@
 
 ---
 <br/>
+
+<h3 align="center">Connect with me on</h3>
+
+<p align="center">
+<a href = "https://www.linkedin.com/in/developerlens/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/developerlens"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
+</p>
 
 <!--
 **developerlens/developerlens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
