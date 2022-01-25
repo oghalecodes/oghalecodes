@@ -10,7 +10,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love watching animes, playing games and driving
 - 💬 Ask me about - Emerging Tech, Crypto e.t.c
-- 📫 How to reach me: [etomuoghale@gmail.com]
+- 📫 How to reach me: [etomuoghale@outlook.com]
 
 <br/>
 
