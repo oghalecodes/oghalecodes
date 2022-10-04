@@ -39,7 +39,7 @@
 <h3 align="center">Connect with me on</h3>
 
 <p align="center">
-<a href = "https://www.linkedin.com/in/developerlens/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/ogahle-etomu/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/developerlens"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
