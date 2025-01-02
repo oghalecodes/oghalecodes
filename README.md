@@ -2,29 +2,29 @@
 
 ## Senior Software Engineer | Open Source Contributor | Tech Enthusiast
 
-With over 7 years in the software development arena, I've honed my skills in full product lifecycle management — from conceptual design through development to market launch — with a particular focus on sectors like Banking, Insurance, Fintech, Real Estate, and Logistics. My passion lies in the art of coding and the thrill of product development. I thrive on tackling complex challenges and am always eager to dive into innovative projects.
+With over seven years of experience in software development, I specialize in steering products through the entire lifecycle—from ideation and design to development and market delivery. My expertise spans diverse sectors, including Banking, Insurance, Fintech, Real Estate, and Logistics, where I've combined technical precision with creative problem-solving to deliver impactful solutions.  
 
-My journey has been marked by a deep commitment to not just writing clean, efficient code, but also in ensuring that the products I develop truly solve real-world problems and add tangible value. I enjoy the collaborative process of brainstorming, iterating, and refining products with cross-functional teams, and I'm always on the lookout for opportunities to share knowledge and learn from fellow developers.
+Driven by a passion for coding and a knack for building innovative products, I excel in turning complex challenges into streamlined, user-centric solutions. Beyond writing clean and efficient code, I’m deeply committed to creating software that addresses real-world needs and delivers measurable value. I thrive in collaborative environments, embracing the synergy of cross-functional teamwork, and I’m always eager to share insights and learn from others in the ever-evolving tech landscape.
 
-### 🛠️ Technologies & Tools
+- 👨‍💻 I’m currently working on - Building scalable, secure, and performant software solutions that bridge backend, frontend, and cloud infrastructure.
+- 🌱 I’m currently learning - Artificial Intelligence, Machine Learning, and emerging technologies to build next-generation, intelligent systems.
+- 🥅 I’m looking to collaborate on - Open-source projects that enhance developer productivity, cloud-native applications, and innovative solutions for data-driven insights.
+- 💬 Ask me about - Software architecture, DevOps best practices, or fullstack development with .NET, React, and cloud platforms like AWS, GCP and Azure.
+- ⚡ Fun fact - I love balancing high-pressure coding sprints with relaxed adventures.
 
-- **Languages**: C#, JavaScript, Python, Typescript
-- **Frameworks/Libraries**: React, Node.js, Django, TensorFlow
-- **Databases**: MySQL, MongoDB, PostgreSQL, MSSSQL
-- **DevOps & Cloud**: Docker, Kubernetes, AWS, Azure
-- **Tools**: Git, Jenkins, JIRA, VS Code
+## 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
 
-### 📚 Continuous Learning
-
-- 🌱 I’m currently learning - ReactJS/React Native 🤣
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- Actively learning [ReactJS/React Native, Go].
-- Exploring [Emerging Technology or Methodology].
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=oghaleetomu&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=oghaleetomu&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oghaleetomu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🤝 Let's Connect
 
-- LinkedIn: [https://www.linkedin.com/in/oghale-etomu/]
-- Twitter: [https://twitter.com/developerlens]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oghalecodes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oghale-etomu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@oghalecodes) 
 
 
 Feel free to browse my repositories and don't hesitate to reach out if you want to collaborate on a project or just have a chat about technology!
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
