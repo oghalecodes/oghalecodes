@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:I[7280,["356","static/chunks/356-0ce1ccdf155d0194.js","765","static/chunks/765-b7e26d0e0e957df8.js","177","static/chunks/app/layout-8c1a2c6da4245429.js"],"ThemeProvider"]
+3:I[5494,["356","static/chunks/356-0ce1ccdf155d0194.js","765","static/chunks/765-b7e26d0e0e957df8.js","177","static/chunks/app/layout-8c1a2c6da4245429.js"],"Navbar"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[6821,["356","static/chunks/356-0ce1ccdf155d0194.js","765","static/chunks/765-b7e26d0e0e957df8.js","177","static/chunks/app/layout-8c1a2c6da4245429.js"],"Footer"]
+7:I[5720,["356","static/chunks/356-0ce1ccdf155d0194.js","429","static/chunks/429-0e026a3f4449fb8d.js","974","static/chunks/app/page-c21d70da3faa4233.js"],"Hero"]
+8:I[447,["356","static/chunks/356-0ce1ccdf155d0194.js","429","static/chunks/429-0e026a3f4449fb8d.js","974","static/chunks/app/page-c21d70da3faa4233.js"],"About"]
+9:I[5418,["356","static/chunks/356-0ce1ccdf155d0194.js","429","static/chunks/429-0e026a3f4449fb8d.js","974","static/chunks/app/page-c21d70da3faa4233.js"],"Skills"]
+a:I[7746,["356","static/chunks/356-0ce1ccdf155d0194.js","429","static/chunks/429-0e026a3f4449fb8d.js","974","static/chunks/app/page-c21d70da3faa4233.js"],"Projects"]
+b:I[416,["356","static/chunks/356-0ce1ccdf155d0194.js","429","static/chunks/429-0e026a3f4449fb8d.js","974","static/chunks/app/page-c21d70da3faa4233.js"],"Experience"]
+c:I[2112,["356","static/chunks/356-0ce1ccdf155d0194.js","429","static/chunks/429-0e026a3f4449fb8d.js","974","static/chunks/app/page-c21d70da3faa4233.js"],"Blog"]
+d:I[5544,["356","static/chunks/356-0ce1ccdf155d0194.js","429","static/chunks/429-0e026a3f4449fb8d.js","974","static/chunks/app/page-c21d70da3faa4233.js"],"Contact"]
+e:I[9665,[],"MetadataBoundary"]
+10:I[9665,[],"OutletBoundary"]
+13:I[4911,[],"AsyncMetadataOutlet"]
+15:I[9665,[],"ViewportBoundary"]
+17:I[6614,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/4bb1c53d4d41ca49.css","style"]
+:HL["/_next/static/css/58522003882035fa.css","style"]
+0:{"P":null,"b":"Gv9DI1rUhUMLHVECbqgvu","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4bb1c53d4d41ca49.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/58522003882035fa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_e8ce0c","children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","main",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}]]}]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[[["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}]],["$","$Le",null,{"children":"$Lf"}],null,["$","$L10",null,{"children":["$L11","$L12",["$","$L13",null,{"promise":"$@14"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","SRGc5uvYoFEPQX_I5wZ_R",{"children":[["$","$L15",null,{"children":"$L16"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$17","$undefined"],"s":false,"S":true}
+18:"$Sreact.suspense"
+19:I[4911,[],"AsyncMetadata"]
+f:["$","$18",null,{"fallback":null,"children":["$","$L19",null,{"promise":"$@1a"}]}]
+12:null
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+1a:{"metadata":[["$","title","0",{"children":"Your Name - Senior Software Engineer"}],["$","meta","1",{"name":"description","content":"Portfolio of a Senior Software Engineer with 8+ years of experience"}],["$","meta","2",{"name":"keywords","content":"software engineer, developer, portfolio, full stack, react, next.js"}]],"error":null,"digest":"$undefined"}
+14:{"metadata":"$1a:metadata","error":null,"digest":"$undefined"}

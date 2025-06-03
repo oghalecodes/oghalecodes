@@ -1,30 +1,233 @@
-# Hello, I'm Oghale 👋
+# Professional Developer Portfolio
 
-## Senior Software Engineer | Open Source Contributor | Tech Enthusiast
+A modern, responsive portfolio website built with Next.js, TypeScript, and Bootstrap. Features dark/light theme toggle, animations, and optimized for GitHub Pages deployment.
 
-With over seven years of experience in software development, I specialize in steering products through the entire lifecycle—from ideation and design to development and market delivery. My expertise spans diverse sectors, including Banking, Insurance, Fintech, Real Estate, and Logistics, where I've combined technical precision with creative problem-solving to deliver impactful solutions.  
+## 🚀 Features
 
-Driven by a passion for coding and a knack for building innovative products, I excel in turning complex challenges into streamlined, user-centric solutions. Beyond writing clean and efficient code, I’m deeply committed to creating software that addresses real-world needs and delivers measurable value. I thrive in collaborative environments, embracing the synergy of cross-functional teamwork, and I’m always eager to share insights and learn from others in the ever-evolving tech landscape.
+- **Modern Design**: Clean, professional design with smooth animations
+- **Responsive**: Mobile-first responsive design that works on all devices
+- **Dark/Light Theme**: Toggle between themes with user preference persistence
+- **Performance Optimized**: Fast loading with optimized images and code splitting
+- **SEO Friendly**: Meta tags, structured data, and semantic HTML
+- **Accessibility**: WCAG compliant with proper ARIA labels and keyboard navigation
+- **Blog Support**: Markdown-based blog with syntax highlighting
+- **Contact Form**: Working contact form with validation
+- **GitHub Pages Ready**: Optimized for static deployment
 
-- 👨‍💻 I’m currently working on - Building scalable, secure, and performant software solutions that bridge backend, frontend, and cloud infrastructure.
-- 🌱 I’m currently learning - Artificial Intelligence, Machine Learning, and emerging technologies to build next-generation, intelligent systems.
-- 🥅 I’m looking to collaborate on - Open-source projects that enhance developer productivity, cloud-native applications, and innovative solutions for data-driven insights.
-- 💬 Ask me about - Software architecture, DevOps best practices, or fullstack development with .NET, React, and cloud platforms like AWS, GCP and Azure.
-- ⚡ Fun fact - I love balancing high-pressure coding sprints with relaxed adventures.
+## 🛠️ Built With
 
-## 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
+- **Framework**: Next.js 15 with App Router
+- **Language**: TypeScript
+- **Styling**: Bootstrap 5 + Custom SCSS
+- **Animations**: Framer Motion
+- **Icons**: Lucide React
+- **Content**: Markdown with Gray Matter
+- **Deployment**: GitHub Pages
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=oghaleetomu&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=oghaleetomu&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oghaleetomu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 📋 Sections
 
-### 🤝 Let's Connect
+- **Hero**: Eye-catching introduction with animated elements
+- **About**: Personal story and key statistics
+- **Skills**: Categorized technical skills with hover effects
+- **Projects**: Featured and additional projects with live demos
+- **Experience**: Professional timeline with detailed descriptions
+- **Blog**: Latest blog posts with excerpts
+- **Contact**: Contact form and information
+- **Footer**: Social links and additional navigation
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oghalecodes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oghale-etomu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@oghalecodes) 
+## 🚀 Getting Started
 
+### Prerequisites
 
-Feel free to browse my repositories and don't hesitate to reach out if you want to collaborate on a project or just have a chat about technology!
+- Node.js 18+ and npm
+- Git
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/yourusername.github.io.git
+   cd yourusername.github.io
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## ⚙️ Configuration
+
+### Personal Information
+
+Update the following files with your information:
+
+1. **Components**: Update personal details in:
+   - `src/components/Hero.tsx`
+   - `src/components/About.tsx`
+   - `src/components/Contact.tsx`
+   - `src/components/Footer.tsx`
+   - `src/components/Navbar.tsx`
+
+2. **Metadata**: Update SEO information in:
+   - `src/app/layout.tsx`
+
+3. **Projects**: Add your projects in:
+   - `src/components/Projects.tsx`
+   - `content/projects/` (for detailed project pages)
+
+4. **Experience**: Update work history in:
+   - `src/components/Experience.tsx`
+
+5. **Skills**: Customize your skills in:
+   - `src/components/Skills.tsx`
+
+6. **Blog Posts**: Add blog posts in:
+   - `content/blog/` (Markdown files)
+
+### Images
+
+Add your images to the `public/` directory:
+- Profile photo: `public/profile.jpg`
+- Project images: `public/projects/`
+- Resume: `public/resume.pdf`
+
+### Social Links
+
+Update social media links in:
+- `src/components/Hero.tsx`
+- `src/components/Footer.tsx`
+- `src/components/Navbar.tsx`
+
+## 📱 Customization
+
+### Theme Colors
+
+Customize colors in `src/styles/globals.scss`:
+
+```scss
+:root {
+  --primary-color: #007bff;
+  --secondary-color: #6c757d;
+  // Add your custom colors
+}
+```
+
+### Fonts
+
+Update fonts in `src/app/layout.tsx`:
+
+```typescript
+import { Inter } from 'next/font/google';
+// Replace with your preferred font
+```
+
+### Animations
+
+Customize animations in components using Framer Motion:
+
+```typescript
+<motion.div
+  initial={{ opacity: 0, y: 50 }}
+  animate={{ opacity: 1, y: 0 }}
+  transition={{ duration: 0.8 }}
+>
+```
+
+## 🚀 Deployment
+
+This portfolio is configured for GitHub Pages deployment.
+
+### Automatic Deployment
+
+1. Push to the `main` branch
+2. GitHub Actions will automatically build and deploy
+3. Site will be available at `https://yourusername.github.io`
+
+### Manual Deployment
+
+```bash
+npm run build
+npm run export
+# Deploy the 'out' folder to your hosting service
+```
+
+### Custom Domain
+
+To use a custom domain:
+
+1. Add a `CNAME` file to the `public/` directory with your domain
+2. Configure DNS settings with your domain provider
+3. Update the repository settings in GitHub
+
+## 📝 Adding Content
+
+### Blog Posts
+
+Create new blog posts in `content/blog/`:
+
+```markdown
+---
+title: "Your Post Title"
+date: "2024-01-01"
+excerpt: "Brief description"
+tags: ["tag1", "tag2"]
+readTime: "5 min read"
+---
+
+# Your Content Here
+```
+
+### Projects
+
+Add detailed project pages in `content/projects/`:
+
+```markdown
+---
+title: "Project Name"
+description: "Project description"
+technologies: ["tech1", "tech2"]
+githubUrl: "https://github.com/..."
+liveUrl: "https://..."
+featured: true
+---
+
+# Detailed project content
+```
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Test thoroughly
+5. Submit a pull request
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 💬 Support
+
+If you have any questions or need help customizing the portfolio:
+
+- Create an issue in the repository
+- Check existing issues for solutions
+- Reach out via the contact form
+
+## 🙏 Acknowledgments
+
+- [Next.js](https://nextjs.org/) for the amazing framework
+- [Bootstrap](https://getbootstrap.com/) for the responsive design system
+- [Framer Motion](https://www.framer.com/motion/) for smooth animations
+- [Lucide](https://lucide.dev/) for beautiful icons
+
+---
+
+**Happy coding!** 🚀

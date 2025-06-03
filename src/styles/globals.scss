@@ -1,0 +1,191 @@
+// Custom global styles
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+// Custom CSS variables for theme
+:root {
+  --primary-color: #007bff;
+  --secondary-color: #6c757d;
+  --success-color: #28a745;
+  --info-color: #17a2b8;
+  --warning-color: #ffc107;
+  --danger-color: #dc3545;
+  --light-color: #f8f9fa;
+  --dark-color: #343a40;
+  
+  // Light theme
+  --bg-primary: #ffffff;
+  --bg-secondary: #f8f9fa;
+  --text-primary: #212529;
+  --text-secondary: #6c757d;
+  --border-color: #dee2e6;
+  --shadow: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="dark"] {
+  --bg-primary: #1a1a1a;
+  --bg-secondary: #2d2d2d;
+  --text-primary: #ffffff;
+  --text-secondary: #b0b0b0;
+  --border-color: #404040;
+  --shadow: rgba(255, 255, 255, 0.1);
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+// Smooth scrolling
+html {
+  scroll-behavior: smooth;
+}
+
+// Custom animations
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes fadeInRight {
+  from {
+    opacity: 0;
+    transform: translateX(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+// Animation classes
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+.animate-fade-in-left {
+  animation: fadeInLeft 0.6s ease-out;
+}
+
+.animate-fade-in-right {
+  animation: fadeInRight 0.6s ease-out;
+}
+
+// Custom components styles
+.hero-section {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(135deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
+}
+
+.section-padding {
+  padding: 80px 0;
+}
+
+.card-hover {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px var(--shadow);
+  }
+}
+
+.btn-outline-primary {
+  border-color: var(--primary-color);
+  color: var(--primary-color);
+  
+  &:hover {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+  }
+}
+
+// Custom navbar styles
+.navbar-custom {
+  backdrop-filter: blur(10px);
+  background-color: rgba(255, 255, 255, 0.9);
+  
+  [data-theme="dark"] & {
+    background-color: rgba(26, 26, 26, 0.9);
+  }
+}
+
+// Project card styles
+.project-card {
+  border: 1px solid var(--border-color);
+  background-color: var(--bg-primary);
+  transition: all 0.3s ease;
+  
+  &:hover {
+    border-color: var(--primary-color);
+    box-shadow: 0 8px 25px var(--shadow);
+  }
+}
+
+// Skill badge styles
+.skill-badge {
+  background-color: var(--bg-secondary);
+  color: var(--text-primary);
+  border: 1px solid var(--border-color);
+  transition: all 0.3s ease;
+  
+  &:hover {
+    background-color: var(--primary-color);
+    color: white;
+    transform: scale(1.05);
+  }
+}
+
+// Timeline styles
+.timeline {
+  position: relative;
+  
+  &::before {
+    content: '';
+    position: absolute;
+    left: 50%;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background-color: var(--border-color);
+    transform: translateX(-50%);
+  }
+}
+
+.timeline-item {
+  &:nth-child(odd) .timeline-content {
+    margin-right: 50%;
+    padding-right: 30px;
+    text-align: right;
+  }
+  
+  &:nth-child(even) .timeline-content {
+    margin-left: 50%;
+    padding-left: 30px;
+  }
+}
