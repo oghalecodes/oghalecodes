@@ -24,7 +24,7 @@ export const Hero: React.FC = () => {
                 Senior Software Engineer
               </h2>
               <p className="lead mb-4">
-                Passionate full-stack developer with 8+ years of experience 
+                PA assionate full-stack developer with 8+ years of experience 
                 building scalable web applications and leading development teams. 
                 I specialize in React, Node.js, and cloud technologies.
               </p>
