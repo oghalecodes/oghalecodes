@@ -1,17 +1,13 @@
 'use client';
 
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { Navbar as BootstrapNavbar, Nav, Container } from 'react-bootstrap';
 import { useTheme } from './ThemeProvider';
+import { ClientOnly } from './ClientOnly';
 import { Sun, Moon, Menu } from 'lucide-react';
 
 export const Navbar: React.FC = () => {
-  const { theme, toggleTheme } = useTheme();
-  const [mounted, setMounted] = useState(false);
-
-  useEffect(() => {
-    setMounted(true);
-  }, []);
+  const { theme, toggleTheme, isHydrated } = useTheme();
 
   return (
     <BootstrapNavbar 
@@ -40,13 +36,23 @@ export const Navbar: React.FC = () => {
           </Nav>
           
           <Nav>
-            <button 
-              className="btn btn-outline-secondary me-2"
-              onClick={toggleTheme}
-              aria-label="Toggle theme"
-            >
-              {mounted ? (theme === 'light' ? <Moon size={20} /> : <Sun size={20} />) : <Moon size={20} />}
-            </button>
+            <ClientOnly fallback={
+              <button 
+                className="btn btn-outline-secondary me-2"
+                aria-label="Toggle theme"
+                disabled
+              >
+                <Moon size={20} />
+              </button>
+            }>
+              <button 
+                className="btn btn-outline-secondary me-2"
+                onClick={toggleTheme}
+                aria-label="Toggle theme"
+              >
+                {theme === 'light' ? <Moon size={20} /> : <Sun size={20} />}
+              </button>
+            </ClientOnly>
             <Nav.Link 
               href="/resume.pdf" 
               target="_blank"
