@@ -1,30 +1,80 @@
-# Hello, I'm Oghale 👋
+<h1 align="center">Hey 👋🏽, I'm Oghale</h1>
+<h3 align="center">Seasoned Fullstack Software Engineer • DevOps Strategist • Cloud-Native & AI-Inclined Technologist</h3>
 
-## Senior Software Engineer | Open Source Contributor | Tech Enthusiast
+<p align="center">
+  <a href="https://www.linkedin.com/in/oghale-etomu" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:contact@iamoghale.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Outlook-blue?style=flat&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <img alt="Location" src="https://img.shields.io/badge/Based_in-Ontario,_Canada-ffb400?style=flat&logo=canva&logoColor=black" />
+</p>
 
-With over seven years of experience in software development, I specialize in steering products through the entire lifecycle—from ideation and design to development and market delivery. My expertise spans diverse sectors, including Banking, Insurance, Fintech, Real Estate, and Logistics, where I've combined technical precision with creative problem-solving to deliver impactful solutions.  
+---
+
+### 🧠 About Me
+
+With over seven years of experience in software development, I specialize in steering products through the entire lifecycle from ideation and design to development and market delivery. I thrive at the intersection of **architecture, performance engineering, and DevOps**, shipping solutions that power **financial systems, banking platforms, omni-commerce, and real-time data apps** across the globe, where I've combined technical precision with creative problem-solving to deliver impactful solutions.
 
 Driven by a passion for coding and a knack for building innovative products, I excel in turning complex challenges into streamlined, user-centric solutions. Beyond writing clean and efficient code, I’m deeply committed to creating software that addresses real-world needs and delivers measurable value. I thrive in collaborative environments, embracing the synergy of cross-functional teamwork, and I’m always eager to share insights and learn from others in the ever-evolving tech landscape.
 
-- 👨‍💻 I’m currently working on - Building scalable, secure, and performant software solutions that bridge backend, frontend, and cloud infrastructure.
-- 🌱 I’m currently learning - Artificial Intelligence, Machine Learning, and emerging technologies to build next-generation, intelligent systems.
-- 🥅 I’m looking to collaborate on - Open-source projects that enhance developer productivity, cloud-native applications, and innovative solutions for data-driven insights.
-- 💬 Ask me about - Software architecture, DevOps best practices, or fullstack development with .NET, React, and cloud platforms like AWS, GCP and Azure.
-- ⚡ Fun fact - I love balancing high-pressure coding sprints with relaxed adventures.
-
-## 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=oghaleetomu&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=oghaleetomu&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oghaleetomu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### 🤝 Let's Connect
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oghalecodes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oghale-etomu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@oghalecodes) 
 
 
-Feel free to browse my repositories and don't hesitate to reach out if you want to collaborate on a project or just have a chat about technology!
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚙️ My Stack
+
+```yaml
+Languages:     C#, Python, JavaScript, TypeScript, HTML, CSS
+Frameworks:    .NET Core, Blazor, Vue.js, Angular, Tailwind, Bootstrap
+Databases:     PostgreSQL, SQL Server, MySQL, MongoDB, Redis, CosmosDB
+Cloud:         Azure (Functions, Service Bus, App Services), AWS (EKS, S3), GCP
+DevOps:        Docker, Kubernetes (AKS/EKS/Bare Metal), GitHub Actions, Terraform, ArgoCD
+CI/CD:         Azure DevOps Pipelines, GitOps, Helm, GitHub Workflows
+```
+
+---
+
+### 🚀 Highlight Projects & Achievements
+
+- 🔁 **GitOps Migration**  
+  ⤷ Led org-wide transition to GitOps (Terraform + ArgoCD + GitHub Actions) → **40% faster deployments**
+
+- 🧾 **AI Chatbot (Tamara)**  
+  ⤷ Built and scaled chatbot used by millions, reducing agent interaction by **200%**, hosted on Azure VM + Bot Framework
+
+- 💸 **Global Payment Infra**  
+  ⤷ Architected Payment-as-a-Service system with support for ClearBank, Plaid, Stripe, MasterCard (100+ clients)
+
+- 🌍 **Multi-Timezone Settlement Engine**  
+  ⤷ Designed a dynamic, highly available engine to reconcile cross-border merchant settlements
+
+- 🧠 **Multi-Processor Payment System**  
+  ⤷ Built a configurable routing engine for 3rd-party gateways — **10% reduction in failed payments**
+
+---
+
+### 🧰 Tools I Use Often
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+</p>
+
+---
+
+### 🗣 Let's Connect
+
+I'm always up for a good conversation on **clean architecture, scalable systems, or DevOps automation**.  
+Want to collaborate or chat tech? Let’s connect on [LinkedIn](https://www.linkedin.com/in/oghale-etomu)!
+
+
+> *"I don't just build software — I engineer systems that scale and endure."*
